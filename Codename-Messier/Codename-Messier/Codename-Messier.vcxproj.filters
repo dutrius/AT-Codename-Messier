@@ -30,12 +30,18 @@
     <ClInclude Include="Codename-Messier.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Messier_GalGen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Codename-Messier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Messier_GalGen.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
